@@ -2,6 +2,7 @@
 
 package loops;
 
+
 public class Armstrong {
 	
 	public static boolean calcArmstrong(int n){	
