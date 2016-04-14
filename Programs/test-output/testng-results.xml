@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30" started-at="2016-04-13T23:08:27Z" finished-at="2016-04-13T23:08:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30" started-at="2016-04-13T23:08:27Z" finished-at="2016-04-13T23:08:27Z">
+      <class name="stringsTest.ImplementationTest">
+        <test-method status="PASS" signature="equalTest()[pri:0, instance:stringsTest.ImplementationTest@50675690]" name="equalTest" duration-ms="14" started-at="2016-04-13T19:08:27Z" finished-at="2016-04-13T19:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- equalTest -->
+        <test-method status="PASS" signature="notEqualTest()[pri:0, instance:stringsTest.ImplementationTest@50675690]" name="notEqualTest" duration-ms="0" started-at="2016-04-13T19:08:27Z" finished-at="2016-04-13T19:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- notEqualTest -->
+      </class> <!-- stringsTest.ImplementationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
